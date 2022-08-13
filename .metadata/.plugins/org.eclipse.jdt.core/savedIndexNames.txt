@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\l011991\OneDrive - Eli Lilly and Company\Documents\Personal\Simplilearn\Java-Projects\.metadata\.plugins\org.eclipse.jdt.core
+1114415937.index
+1661758114.index
+1865797976.index
